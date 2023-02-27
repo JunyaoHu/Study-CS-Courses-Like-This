@@ -1,2 +1,9 @@
-# Study-CS-Courses-Like-This
+---
+coverY: 0
+---
+
+# 🏠 README
+
 为本科培养方案中涉及计算机专业课程提供多角度学习指导建议
+
+:smile:
